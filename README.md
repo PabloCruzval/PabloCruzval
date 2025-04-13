@@ -6,7 +6,7 @@
   **Pontificia Universidad Católica de Chile**.
 - 🇨🇱 De Chile, viviendo y estudiando en Santiago.
 - 🐧 Apasionado por el mundo de **Linux** y su ecosistema.
-- 🎮 Amante de los videojuegos, especialmente **Counter Strike** y **Assetto Corsa**.
+- 🎮 Amante de los videojuegos, especialmente **The Legend of Zelda** y **Shooter**.
 - 💡 **"Labor omnia vincit"**.
 
 ## Habilidades
@@ -23,11 +23,11 @@
 ## Proyectos
 
 Actualmente estoy enfocado en mis estudios, pero pronto comenzaré a subir
-proyectos personales y académicos. ¡Mantente atento! 🚀
+proyectos personales y académicos.
 
 ## Hobbies
 
-- 🎮 Disfruto jugar videojuegos como **Counter Strike** y **Assetto Corsa**.
+- 🎮 Actualmente disfruto jugar videojuegos como **Counter Strike** y **Assetto Corsa**.
 - 🎧 Escuchar música mientras programo o estudio.
 
 ---
