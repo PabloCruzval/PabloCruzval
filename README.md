@@ -14,19 +14,33 @@
 ###
 
 <div align="center">
-  <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" height="30" alt="arch linux logo"  />
+  <a href="https://archlinux.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" height="30" alt="arch linux logo"  />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <a href="https://www.python.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <a href="https://git-scm.com/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <a href="https://www.w3.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  </a>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <a href="https://www.w3.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  </a>
   <img width="12" />
-  <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" height="25" alt="tailwind logo"  />
+  <a href="https://tailwindcss.com/">
+    <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" height="25" alt="tailwind logo"  />
+  </a>
 </div>
 
 ###
