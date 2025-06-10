@@ -21,6 +21,7 @@
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   </a>
+  <img width="12" />
   <a href="https://neovim.io/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" height="30" alt="neovim logo" />
   </a>
