@@ -8,37 +8,30 @@
 # 💻 Tech Stack:
 
 <div align="center">
-  <a href="https://archlinux.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" height="30" alt="arch linux logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  </a>
-  <img width="12" />
-  <a href="https://neovim.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" height="30" alt="neovim logo" />
+  <a href="https://astro.build/" target="_blank">
+    <img src="https://astro.build/assets/press/astro-icon-light-gradient.png" height="30" alt="astro build logo"  />
   </a>
   <img width="12" />
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   </a>
   <img width="12" />
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" height="25" alt="tailwind logo"  />
+  </a>
+  <img width="12" />
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   </a>
   <img width="12" />
-  <a href="https://www.w3.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   </a>
   <img width="12" />
-  <a href="https://www.w3.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <a href="https://archlinux.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" height="30" alt="arch linux logo"  />
   </a>
   <img width="12" />
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" height="25" alt="tailwind logo"  />
-  </a>
 </div>
 
 ###
