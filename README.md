@@ -1,14 +1,15 @@
-<h2 align="center">Hi 👋! I'm Pablo and I'm a Computer Science Student, from Chile 🇨🇱</h2>
+<h2 align="center">Hi 👋! I'm a Computer Science Student, from Chile 🇨🇱</h2>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PabloCruzval&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pablocruzval) 
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/PMR9b71INVcAAAAM/111.gif"  />
+# 💻 Tech Stack:
+
+
 
 ###
 
@@ -46,21 +47,25 @@
   </a>
 </div>
 
-###
 
-<div align="center">
-  <a href="https://discord.com/users/905560294418432021" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/pablocruzval/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
 
-###
+# 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=PabloCruzval&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img align="right" height="150" src="https://media.tenor.com/PMR9b71INVcAAAAM/111.gif"  /> <br/>
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/PabloCruzval/PabloCruzval/output/snake.svg" alt="Snake animation" />
 
-###
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=PabloCruzval&theme=dark&hide_border=true&include_all_commits=true&count_private=true) 
+![](https://nirzak-streak-stats.vercel.app/?user=PabloCruzval&theme=dark&hide_border=true)<br/>
+
+
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
