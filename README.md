@@ -28,8 +28,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   </a>
   <img width="12" />
-  <a href="https://archlinux.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" height="30" alt="arch linux logo"  />
+  <a href="https://nixos.org/" target="_blank">
+    <img src="https://gitlab.com/uploads/-/system/project/avatar/48893297/nixos.png" height="30" alt="arch linux logo"  />
   </a>
   <img width="12" />
 </div>
