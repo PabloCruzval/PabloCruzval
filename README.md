@@ -1,60 +1,59 @@
-<h2 align="center">Hi 👋! I'm a Computer Science Student, from Chile 🇨🇱</h2>
+<h1 align="left">Hello there 👋</h1>
 
 ###
 
+<p align="left">I'm Pablo Cruzat, a Computer Science Studen at the Pontifical Catholic University of Chile. <br>Lover of open source, communities, and Linux.</p>
 
 ###
 
-# 💻 Tech Stack:
+<h2 align="left">About me</h2>
 
-<div align="center">
-  <a href="https://astro.build/" target="_blank">
-    <img src="https://astro.build/assets/press/astro-icon-light-gradient.png" height="30" alt="astro build logo"  />
-  </a>
+###
+
+<p align="left">✨ Coordinator of OpenSource UC<br>📚 I'm currently learning Rust<br>🎲 Fun fact: I use Arch btw</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" height="25" alt="tailwind logo"  />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <a href="https://archlinux.org/" target="_blank">
-    <img src="https://archlinux.org/static/favicon.png" height="30" alt="arch linux logo"  />
-  </a>
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###
 
-# 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PabloCruzval&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h2 align="left">Social Media</h2>
 
 ###
 
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=PabloCruzval&theme=dark&hide_border=true&include_all_commits=true&count_private=true) 
-![](https://nirzak-streak-stats.vercel.app/?user=PabloCruzval&theme=dark&hide_border=true)<br/>
-
-###
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pablocruzval) 
+<div align="left">
+  <a href="https://www.linkedin.com/in/pablocruzval/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h1 align="center">Github Stats</h1>
 
+###
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PabloCruzval&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PabloCruzval&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=PabloCruzval&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
