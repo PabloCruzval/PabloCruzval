@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Coordinator of <a href="https://github.com/open-source-uc">Open Source UC</a><br>📚 I'm currently learning Rust<br>🎲 Fun fact: I use Arch btw</p>
+<p align="left">✨ Project Coordinator at <a href="https://github.com/open-source-uc">Open Source UC</a><br>📚 I'm currently learning Rust<br>🎲 Fun fact: I use Arch btw</p>
 
 ###
 
