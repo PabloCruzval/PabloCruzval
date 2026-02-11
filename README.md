@@ -7,7 +7,7 @@
  -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=138DFF&reversal=false" alt="header"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Funnel+Display&duration=4000&pause=1000&color=138DFF&vCenter=true&width=435&lines=Hello+there%2C+it's+Pablo+Cruzval;Computer+Science+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Funnel+Display&duration=4000&pause=1000&color=138DFF&vCenter=true&width=435&lines=Hello+there%2C+it's+Pablo+Cruzval;Computer+Science+Student+at+UC)](https://git.io/typing-svg)
 
 <!--
     Your own Terminal GIF can be created here -> https://www.terminalgif.com
