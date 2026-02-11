@@ -1,64 +1,47 @@
-<h1 align="left">Hello there 👋</h1>
+<!-- 
+    This readme is a copy of https://github.com/daria-stanilevici/daria-stanilevici,
+ -->
 
-###
+<!-- 
+    Header & Footer wave image from: https://capsule-render.vercel.app/
+ -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=138DFF&reversal=false" alt="header"/> 
 
-<p align="left">I'm Pablo Cruzat, a Computer Science Studen at the Pontifical Catholic University of Chile. <br>Lover of open source, communities, and Linux.</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Funnel+Display&duration=4000&pause=1000&color=138DFF&vCenter=true&width=435&lines=Hello+there%2C+it's+Pablo+Cruzval;Computer+Science+Student)](https://git.io/typing-svg)
 
-###
+<!--
+    Your own Terminal GIF can be created here -> https://www.terminalgif.com
+-->
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Project Coordinator at <a href="https://github.com/open-source-uc">Open Source UC</a><br>📚 I'm currently learning Rust<br>🎲 Fun fact: I use Arch btw</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://astro.build/assets/press/astro-icon-light-gradient.svg" height="40" alt="astrojs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <!-- https://commons.wikimedia.org/wiki/File:Neovim-mark.svg -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Neovim-mark.svg/500px-Neovim-mark.svg.png?20150131093814" height="40" alt="neovim logo">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+<div>
+    <img src="./assets/terminal.gif" alt="About Me Terminal GIF"/>
 </div>
 
-###
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=py,github,git,ts,js,nodejs,astro,cpp,html,css,tailwind,linux,arch&perline=7)](https://skillicons.dev)
 
-<h2 align="left">Social Media</h2>
+### Studying
+[![Learning](https://skillicons.dev/icons?i=react,bash)](https://skillicons.dev)
 
-###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/pablocruzval/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+### About me
+
+I'm a Computer Science student at UC and passionate about technology, Open Source, with self-taught experience in Linux environments.
+
+My curiosity led me to explore Linux and start programming with Python. Today I'm involved in collaborative Open Source projects where I continue learning technologies like Astro, TypeScript and TailwindCSS.
+
+I'm enthusiastic about exploring different areas of computing, from frontend development to Linux system administration. My current focus is on constant learning, contributing with commitment and building a solid foundation for my professional future in technology.
+
+### Connect with me!
+<div>
+    <a href="https://linkedin.com/in/PabloCruzval">
+        <img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=32&color=%23138dff" alt="linkedin" />
+    </a>
 </div>
 
-###
 
-<h1 align="center">Github Stats</h1>
+> [!IMPORTANT]  
+> <a href="https://github.com/daria-stanilevici/daria-stanilevici" download>Readme inspired by Daria Stailevici</a>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PabloCruzval&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PabloCruzval&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=PabloCruzval&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=138DFF&reversal=false&section=footer" alt="footer"/> 
