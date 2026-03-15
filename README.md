@@ -21,7 +21,7 @@
 [![My Skills](https://skillicons.dev/icons?i=py,github,git,ts,js,nodejs,astro,cpp,html,css,tailwind,linux,arch&perline=7)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=react,bash)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=react,bash,c)](https://skillicons.dev)
 
 
 ### About me
