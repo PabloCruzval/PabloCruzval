@@ -18,11 +18,7 @@
 </div>
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=cloudflare,astro,ts,js,github,git,nodejs,tailwind,cpp,py,linux,arch&perline=6)](https://skillicons.dev)
-
-### Studying
-[![Learning](https://skillicons.dev/icons?i=bash,c)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=cloudflare,astro,ts,js,github,git,nodejs,tailwind,c,cpp,bash,py,linux,arch&perline=6)](https://skillicons.dev)
 
 ### About me
 
